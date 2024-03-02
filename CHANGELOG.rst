@@ -2,6 +2,11 @@
 Changelog for package gmm_occupancy_modeling_example
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.3 (2024-03-02)
+------------------
+* update license
+* Contributors: Wennie Tabib
+
 0.0.2 (2023-06-20)
 ------------------
 * add BSD-3 license
